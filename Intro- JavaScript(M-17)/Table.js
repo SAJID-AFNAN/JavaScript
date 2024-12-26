@@ -14,3 +14,4 @@ console.table([apple,orange,tomato,me]);
 
 console.log(typeof undefined);  //undefined
 console.log(typeof null);  //object
+console.log(typeof NaN);  //Number
