@@ -21,3 +21,9 @@ console.log(typeof bolean);
 console.log(bolean);
 
 // true = 1 false = 0 
+
+const no = Number.parseInt('0xF')
+console.log(no);
+
+const no2 = Number.parseInt('321')
+console.log(no2);
