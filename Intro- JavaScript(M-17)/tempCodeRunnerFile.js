@@ -1,2 +1,3 @@
-dom() * 10);
-// console.log((Math.random() * 10) + 1);
+));
+// console.log(myDate.toDateString());
+// console.log(myDate.toLocaleString());
